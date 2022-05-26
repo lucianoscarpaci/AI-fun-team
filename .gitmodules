@@ -4,3 +4,6 @@
 [submodule "checker_easyAI"]
 	path = checker_easyAI
 	url = https://github.com/Awannaphasch2016/checker_easyAI.git
+[submodule "easyAI"]
+	path = easyAI
+	url = https://github.com/Zulko/easyAI
