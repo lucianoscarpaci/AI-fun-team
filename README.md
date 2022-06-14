@@ -1,5 +1,5 @@
 # AI-fun-team
-Project 1
+Project 1:
 Create a modified game of checkers using the EasyAI \
 Installation Instructions:
 Use python version 3.9.0-3.9.10 \
