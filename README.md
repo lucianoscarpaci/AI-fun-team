@@ -9,7 +9,9 @@ Follow instructions in the easyAI GitHub repo: https://github.com/Zulko/easyAI \
 Install easyAI by running this command in Terminal:
 ```python3 -m pip install easyAI``` \
 cd to desktop and clone this repo: \
-```cd $HOME/Desktop/ && git clone https://github.com/lucianoscarpaci/AI-fun-team/```
+```cd $HOME/Desktop/ && git clone https://github.com/lucianoscarpaci/AI-fun-team/``` \
+Run the game using the command below:
+```python3 $HOME/Desktop/AI-fun-team/Packages/checkers.py```
 
 
 
