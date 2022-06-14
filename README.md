@@ -1,4 +1,4 @@
-# AI-fun-team
+🤖♟🎲 AI-checkers 🎲♟🤖
 **Project 1:**
 Create a modified game of checkers using the easyAI. \
 \
