@@ -13,7 +13,7 @@ Follow instructions in the easyAI GitHub repo https://github.com/Zulko/easyAI \
 **Run the game using the command below:** \
 ```python3 $HOME/Desktop/AI-fun-team/Packages/checkers.py``` \
 \
-**Objective:** \
+**Objective** \
 The objective of the game is to get as many pieces as you can from the opponent. \
 \
 **How to Win** \
