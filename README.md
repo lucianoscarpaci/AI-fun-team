@@ -7,6 +7,11 @@ Validate python version by running this command in Terminal:
 ```python3 --version``` \
 Follow instructions in the easyAI Github repo: https://github.com/Zulko/easyAI \
 Install easyAI by running this command in Terminal:
-```python3 -m pip install easyAI```
+```python3 -m pip install easyAI``` \
+CD to desktop
+```cd $HOME/Desktop/```
+Clone this repo
+```git clone https://github.com/lucianoscarpaci/AI-fun-team/```
+
 
 
